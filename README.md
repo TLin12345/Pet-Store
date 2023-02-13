@@ -1,4 +1,4 @@
-# Pet-Store
+# Pet_Store
 1. Create an interface called Mammel that can be implemented for the types of animals that sell in the pet shop. The Mammal interface contains 
 all of the method headers for attributes or actions that are shared commonly amongst all of the animals.
 2. Create an abstract classes that extends from interface Mammel that represents different pets. The abstract classes will be the base classes for 
